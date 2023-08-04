@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441707863371",
+    "project_id": "notewhiz-a1361",
+    "storage_bucket": "notewhiz-a1361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441707863371:android:6abd8775b60b03f0e35cce",
+        "android_client_info": {
+          "package_name": "com.imoregano007.notewhiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441707863371-es50p18fsed8lkugsbj7i400fkn7pd3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5UYZQPRYiicD3h1s2O8Ibz79n-ZpNeLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441707863371-es50p18fsed8lkugsbj7i400fkn7pd3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

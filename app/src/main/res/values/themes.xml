@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NoteWhiz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/myPrimaryColor</item>
+        <item name="colorPrimaryVariant">@color/myPrimaryColor</item>
+        <item name="android:statusBarColor" tools:targetApi='l' >@color/myPrimaryColor</item>
+
+    </style>
+
+    <style name="Theme.NoteWhiz" parent="Base.Theme.NoteWhiz" />
+</resources>
